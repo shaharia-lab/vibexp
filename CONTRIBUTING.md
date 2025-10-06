@@ -53,7 +53,7 @@ Have an idea to make VibeXP better?
 Found a security vulnerability? Please report it responsibly.
 
 1. **DO NOT** create a public GitHub issue
-2. Email security concerns to security@vibexp.io
+2. Email security concerns to [hello@vibexp.io](mailto:hello@vibexp.io)
 3. Include detailed steps to reproduce
 4. Allow us time to address before public disclosure
 
@@ -148,7 +148,7 @@ Violations of our Code of Conduct may result in:
 - Temporary ban from the repository
 - Permanent ban for severe or repeated violations
 
-Report violations to conduct@vibexp.io.
+Report violations to [hello@vibexp.io](mailto:hello@vibexp.io).
 
 ---
 
@@ -182,8 +182,11 @@ Together, we're building the future of AI productivity tools. 🚀
 
 ## 📬 Questions?
 
-- Visit our [website](https://vibexp.io)
-- Contact us at [vibexp.io/contact](https://vibexp.io/contact)
-- Check [existing issues](https://github.com/shaharia-lab/vibexp/issues)
+- 🌐 **Website**: [vibexp.io](https://vibexp.io?utm_source=gh_vibexp_contributing&utm_medium=link&utm_campaign=footer)
+- 📧 **Email**: [hello@vibexp.io](mailto:hello@vibexp.io)
+- 📞 **Contact**: [vibexp.io/contact](https://vibexp.io/contact?utm_source=gh_vibexp_contributing&utm_medium=link&utm_campaign=footer)
+- 📺 **YouTube**: [@vibexp-io](https://www.youtube.com/@vibexp-io?utm_source=gh_vibexp_contributing&utm_medium=link&utm_campaign=social)
+- 𝕏 **Twitter/X**: [@vibexp_io](https://x.com/vibexp_io?utm_source=gh_vibexp_contributing&utm_medium=link&utm_campaign=social)
+- 🐛 **Issues**: [github.com/shaharia-lab/vibexp/issues](https://github.com/shaharia-lab/vibexp/issues)
 
 Happy contributing! 🎉

@@ -6,8 +6,9 @@
 
 *Turn scattered chats and lost prompts into an organized, reusable knowledge base*
 
-[![Website](https://img.shields.io/badge/🌐-Website-blue)](https://vibexp.io)
-[![License](https://img.shields.io/badge/📄-MIT-orange)](LICENSE)
+[![Website](https://img.shields.io/badge/🌐-Website-blue)](https://vibexp.io?utm_source=gh_vibexp_readme&utm_medium=badge&utm_campaign=community)
+[![YouTube](https://img.shields.io/badge/📺-YouTube-red)](https://www.youtube.com/@vibexp-io?utm_source=gh_vibexp_readme&utm_medium=badge&utm_campaign=community)
+[![Twitter](https://img.shields.io/badge/𝕏-@vibexp__io-black)](https://x.com/vibexp_io?utm_source=gh_vibexp_readme&utm_medium=badge&utm_campaign=community)
 
 </div>
 
@@ -37,10 +38,10 @@ Stop rewriting prompts. Stop re-explaining context. Stop losing valuable AI-gene
 - 🔐 **Secure API Keys** - Enterprise-grade authentication for all integrations
 
 Learn more about our features:
-- [Prompt Management](https://vibexp.io/features/prompt-management)
-- [Memory Management](https://vibexp.io/features/memory-management)
-- [Artifacts Management](https://vibexp.io/features/artifacts-management)
-- [MCP Integration](https://vibexp.io/features/mcp-integration)
+- [Prompt Management](https://vibexp.io/features/prompt-management?utm_source=gh_vibexp_readme&utm_medium=link&utm_campaign=features)
+- [Memory Management](https://vibexp.io/features/memory-management?utm_source=gh_vibexp_readme&utm_medium=link&utm_campaign=features)
+- [Artifacts Management](https://vibexp.io/features/artifacts-management?utm_source=gh_vibexp_readme&utm_medium=link&utm_campaign=features)
+- [MCP Integration](https://vibexp.io/features/mcp-integration?utm_source=gh_vibexp_readme&utm_medium=link&utm_campaign=features)
 
 ---
 
@@ -48,7 +49,7 @@ Learn more about our features:
 
 Ready to transform your AI workflow?
 
-1. Visit [vibexp.io](https://vibexp.io) to create your free account
+1. Visit [vibexp.io](https://vibexp.io?utm_source=gh_vibexp_readme&utm_medium=link&utm_campaign=get_started) to create your free account
 2. Connect your favorite AI tools through MCP or REST API
 3. Start building your personal AI knowledge base
 
@@ -76,17 +77,20 @@ Our team actively participates in every discussion and regularly updates the com
 
 ---
 
-## 📄 License
+## 🔗 Connect With Us
 
-VibeXP is released under the [MIT License](LICENSE).
+- 🌐 **Website**: [vibexp.io](https://vibexp.io?utm_source=gh_vibexp_readme&utm_medium=link&utm_campaign=footer)
+- 📺 **YouTube**: [@vibexp-io](https://www.youtube.com/@vibexp-io?utm_source=gh_vibexp_readme&utm_medium=link&utm_campaign=social)
+- 𝕏 **Twitter/X**: [@vibexp_io](https://x.com/vibexp_io?utm_source=gh_vibexp_readme&utm_medium=link&utm_campaign=social)
+- 📧 **Email**: [hello@vibexp.io](mailto:hello@vibexp.io)
+- 📞 **Contact**: [vibexp.io/contact](https://vibexp.io/contact?utm_source=gh_vibexp_readme&utm_medium=link&utm_campaign=footer)
 
 ---
 
-## 🔗 Legal & Privacy
+## 🔒 Legal & Privacy
 
-- [Terms of Service](https://vibexp.io/terms-and-conditions)
-- [Privacy Policy](https://vibexp.io/privacy-policy)
-- [Contact Us](https://vibexp.io/contact)
+- [Terms of Service](https://vibexp.io/terms-and-conditions?utm_source=gh_vibexp_readme&utm_medium=link&utm_campaign=legal)
+- [Privacy Policy](https://vibexp.io/privacy-policy?utm_source=gh_vibexp_readme&utm_medium=link&utm_campaign=legal)
 
 ---
 
@@ -94,6 +98,6 @@ VibeXP is released under the [MIT License](LICENSE).
 
 **Built with ❤️ by the VibeXP team**
 
-[Website](https://vibexp.io) · [Contact](https://vibexp.io/contact)
+[Website](https://vibexp.io?utm_source=gh_vibexp_readme&utm_medium=link&utm_campaign=footer) · [Contact](https://vibexp.io/contact?utm_source=gh_vibexp_readme&utm_medium=link&utm_campaign=footer) · [YouTube](https://www.youtube.com/@vibexp-io?utm_source=gh_vibexp_readme&utm_medium=link&utm_campaign=footer) · [Twitter/X](https://x.com/vibexp_io?utm_source=gh_vibexp_readme&utm_medium=link&utm_campaign=footer)
 
 </div>
