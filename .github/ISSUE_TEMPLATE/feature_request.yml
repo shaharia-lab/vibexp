@@ -1,0 +1,99 @@
+name: ✨ Feature Request
+description: Suggest a new feature or enhancement for vibexp
+title: "[Feature]: "
+labels: ["enhancement", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Feature Request
+        
+        Thank you for taking the time to suggest a new feature! Please provide as much detail as possible to help us understand your request.
+  
+  - type: checkboxes
+    id: prerequisites
+    attributes:
+      label: Prerequisites
+      description: Please confirm the following
+      options:
+        - label: I have searched existing issues and discussions to avoid duplicates
+          required: true
+        - label: This feature request is specific and actionable
+          required: true
+  
+  - type: textarea
+    id: problem-statement
+    attributes:
+      label: Problem Statement
+      description: What problem does this feature solve? What need does it address?
+      placeholder: "I'm always frustrated when... / It would be helpful if..."
+    validations:
+      required: true
+  
+  - type: textarea
+    id: proposed-solution
+    attributes:
+      label: Proposed Solution
+      description: Describe the solution you'd like to see implemented
+      placeholder: Provide a clear and detailed description of what you want to happen
+    validations:
+      required: true
+  
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives Considered
+      description: Have you considered any alternative solutions or workarounds?
+      placeholder: Describe alternatives you've considered
+    validations:
+      required: false
+  
+  - type: dropdown
+    id: feature-type
+    attributes:
+      label: Feature Type
+      description: What type of feature is this?
+      options:
+        - New functionality
+        - Enhancement to existing feature
+        - UI/UX improvement
+        - Performance improvement
+        - Developer experience
+        - Documentation
+        - Other
+    validations:
+      required: true
+  
+  - type: checkboxes
+    id: impact-areas
+    attributes:
+      label: Impact Areas
+      description: Which areas of the project would this feature affect?
+      options:
+        - label: Requires backend API changes
+        - label: Requires frontend changes
+        - label: Requires database schema changes
+        - label: Requires documentation updates
+        - label: Contains breaking changes
+        - label: Requires new dependencies
+  
+  - type: textarea
+    id: use-cases
+    attributes:
+      label: Use Cases
+      description: Describe specific use cases or scenarios where this feature would be valuable
+      placeholder: |
+        1. Use case one...
+        2. Use case two...
+    validations:
+      required: false
+  
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: Add any other context, mockups, or screenshots about the feature request
+      placeholder: Any additional information that might be helpful (diagrams, mockups, examples from other tools)
+    validations:
+      required: false
+
