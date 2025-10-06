@@ -15,7 +15,7 @@ There are several ways you can contribute to VibeXP:
 Found something broken? We want to know!
 
 1. Search [existing issues](https://github.com/shaharia-lab/vibexp/issues) to avoid duplicates
-2. Use our [Bug Report Template](https://github.com/shaharia-lab/vibexp/issues/new?template=bug_report.md)
+2. Create a new issue with the "Bug Report" label
 3. Include detailed steps to reproduce the issue
 4. Add screenshots or error messages if applicable
 5. Specify your environment (browser, OS, AI tool you're integrating with)
@@ -34,7 +34,7 @@ Found something broken? We want to know!
 Have an idea to make VibeXP better?
 
 1. Search [existing feature requests](https://github.com/shaharia-lab/vibexp/issues?q=is%3Aissue+label%3Aenhancement) first
-2. Use our [Feature Request Template](https://github.com/shaharia-lab/vibexp/issues/new?template=feature_request.md)
+2. Create a new issue with the "Feature Request" label
 3. Explain the problem you're trying to solve
 4. Describe your proposed solution
 5. Share any alternative solutions you've considered
@@ -53,10 +53,9 @@ Have an idea to make VibeXP better?
 Found a security vulnerability? Please report it responsibly.
 
 1. **DO NOT** create a public GitHub issue
-2. Use our [Security Policy](https://github.com/shaharia-lab/vibexp/security/policy)
-3. Email security concerns to [security@vibexp.io](mailto:security@vibexp.io)
-4. Include detailed steps to reproduce
-5. Allow us time to address before public disclosure
+2. Email security concerns to security@vibexp.io
+3. Include detailed steps to reproduce
+4. Allow us time to address before public disclosure
 
 We take security seriously and will respond promptly to all reports.
 
@@ -81,12 +80,12 @@ To help us process your contribution quickly:
 ### Before Creating an Issue
 
 1. **Search first** - Your issue might already be reported or answered
-2. **Check documentation** - Make sure it's not covered in our [docs](https://vibexp.io/docs)
+2. **Check the website** - Make sure it's not a known limitation
 3. **One issue per report** - Don't combine multiple bugs or features
 
 ### When Creating an Issue
 
-1. **Use appropriate templates** - They guide you through providing necessary information
+1. **Use appropriate labels** - Help us categorize and prioritize
 2. **Be specific and detailed** - Vague descriptions slow down resolution
 3. **Stay focused** - Keep discussions on-topic
 4. **Be respectful** - Constructive feedback helps everyone
@@ -149,7 +148,7 @@ Violations of our Code of Conduct may result in:
 - Temporary ban from the repository
 - Permanent ban for severe or repeated violations
 
-Report violations to [conduct@vibexp.io](mailto:conduct@vibexp.io).
+Report violations to conduct@vibexp.io.
 
 ---
 
@@ -183,9 +182,8 @@ Together, we're building the future of AI productivity tools. 🚀
 
 ## 📬 Questions?
 
-- Browse our [Documentation](https://vibexp.io/docs)
-- Contact us through [our website](https://vibexp.io/contact)
+- Visit our [website](https://vibexp.io)
+- Contact us at [vibexp.io/contact](https://vibexp.io/contact)
 - Check [existing issues](https://github.com/shaharia-lab/vibexp/issues)
 
 Happy contributing! 🎉
-
