@@ -1,0 +1,84 @@
+name: 💬 General Issue
+description: For questions, discussions, or issues that don't fit other categories
+title: "[General]: "
+labels: ["needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## General Issue / Question
+        
+        Use this template for:
+        - Questions about using vibexp
+        - General discussions
+        - Suggestions that don't fit feature requests
+        - Other topics that don't fit the specific templates
+  
+  - type: checkboxes
+    id: prerequisites
+    attributes:
+      label: Prerequisites
+      description: Please confirm the following
+      options:
+        - label: I have searched existing issues and discussions
+          required: true
+        - label: This doesn't fit other issue templates (bug, feature, security)
+          required: true
+  
+  - type: dropdown
+    id: issue-type
+    attributes:
+      label: Issue Type
+      description: What type of issue is this?
+      options:
+        - Question
+        - Discussion
+        - Documentation
+        - Configuration/Setup
+        - Integration
+        - Other
+    validations:
+      required: true
+  
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Provide a clear and detailed description
+      placeholder: Describe your question, suggestion, or topic
+    validations:
+      required: true
+  
+  - type: textarea
+    id: context
+    attributes:
+      label: Context / Background
+      description: Provide any relevant context or background information
+      placeholder: |
+        - What are you trying to achieve?
+        - What have you tried so far?
+        - Any relevant setup or configuration details
+    validations:
+      required: false
+  
+  - type: textarea
+    id: relevant-links
+    attributes:
+      label: Relevant Links / References
+      description: Add any relevant links, documentation, or references
+      placeholder: |
+        - Documentation: ...
+        - Related issues: ...
+        - External resources: ...
+    validations:
+      required: false
+  
+  - type: textarea
+    id: additional-information
+    attributes:
+      label: Additional Information
+      description: Any other information that might be helpful
+      placeholder: Add any other context, screenshots, or details
+    validations:
+      required: false
+
